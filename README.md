@@ -8,7 +8,7 @@
 ## Instalación y Uso 🚀
 1. **Clona este repositorio**:
     ```bash
-[    (https://github.com/acarratala03/ForoCine)
+    (https://github.com/acarratala03/ForoCine)
     ```
 
 ## Tecnologías Utilizadas 🛠️
